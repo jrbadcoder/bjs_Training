@@ -1,0 +1,1 @@
+export const SAVE_DUMMY_DATA = 'SAVE_DUMMY_DATA';
