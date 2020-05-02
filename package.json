@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "bootstrap-4-react": "0.0.59",
     "lodash": "^4.17.15",
-    "moment": "2.18.1",
+    "moment": "2.25.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
